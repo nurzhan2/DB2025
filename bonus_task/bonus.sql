@@ -1150,10 +1150,7 @@ CALL process_salary_batch(
 
 
 
-
 /*
-
-
 -- TASK 4 — CONCURRENCY DEMO (TWO SESSIONS)
 
 -- This demonstrates row-level locking and concurrent access control.
@@ -1226,6 +1223,4 @@ WHERE query LIKE '%process_transfer%'
 
 
 */
-
-
 */
